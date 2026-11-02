@@ -6,6 +6,7 @@
 
 ## 阅读入口
 
+- [下一阶段决策地图](.scratch/expression-reference/map.md)：从完整实例走向全局参考预设方案；具体问题保存在其 issues/ 目录。
 - [讨论共识](discussion-principles.md)：已确认的表达与组织原则，随讨论修订。
 - [术语表](GLOSSARY.md)：当前采用的工作定义。
 - [首轮讨论记录](sessions/2026-11-01.md)：问题如何展开、用户作了哪些修正。
