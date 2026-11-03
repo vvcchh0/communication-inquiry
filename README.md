@@ -12,6 +12,7 @@
 - [首轮讨论记录](sessions/2026-11-01.md)：问题如何展开、用户作了哪些修正。
 - [反馈与案例记录安排](sessions/2026-11-02.md)：Q12 对记录用途的补充。
 - [成人研究与小学生应用案例](cases/adult-study-primary-school.md)：重复已知限制与推进理解的具体区别。
+- [完整回答分析](cases/discussion-readiness-review.md)：对“讨论是否充实”回答的原文保留与初步分析。
 - [待研究问题](open-questions.md)：尚未确定的解释与后续方向。
 - [Agent 通信研究线索](research/agent-communication.md)：已查阅的来源与待验证问题。
 
