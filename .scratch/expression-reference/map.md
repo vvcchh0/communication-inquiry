@@ -15,6 +15,7 @@ Labels: wayfinder:map
 - 采用本地 Markdown tracker。议题位于 issues/，按文件序号扫描 Status: open、未被未解决议题阻塞的文件；工作前置为 claimed，完成后追加 Answer 并置为 resolved。Blocked by 使用同目录议题编号；编号仅用于机器关系，人类阅读引用标题。
 - 每轮处理一个需要用户参与的决策；保留原始案例和用户反馈，区分工作定义、偏好、事实判断与探索假设。
 - 既有共识保留在原文件；本地图的 Decisions so far 仅索引此轮议题的解决记录。
+- 需要独立读者时，真实阅读体验由本人反馈；agent 可提供分析、变体与有出处的组织案例，分别标注。当前无仓库远端，议题先存本地，外部发布需指定目标仓库。
 
 ## Decisions so far
 
