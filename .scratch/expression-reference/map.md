@@ -21,6 +21,7 @@ Labels: wayfinder:map
 <!-- 在议题解决后添加标题链接与一句结果摘要。 -->
 
 - [选择首个完整实例与比较依据](issues/01-case-selection.md)：采用本会话成熟度评估回答，保留有帮助的五点回顾，比较衔接、解释增量与阅读感受。
+- [用完整改写确定解释所需的展开程度](issues/02-rewrite-comparison.md)：复杂背景下建立共识时倾向展开关系；已有充分共同理解且回顾已呈现关系时，简短过渡更顺畅。
 
 ## Not yet specified
 
