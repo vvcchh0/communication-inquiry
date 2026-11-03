@@ -2,7 +2,8 @@
 
 Type: prototype
 Labels: wayfinder:prototype
-Status: open
+Status: claimed
+Assignee: 当前会话主代理
 Parent: ../map.md
 Blocked by: 01
 
